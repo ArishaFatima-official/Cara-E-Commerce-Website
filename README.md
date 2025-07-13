@@ -1,2 +1,10 @@
 # Cara-E-Commerce-Website
-A basic e-commerce website built using HTML, CSS, and JavaScript.
+This is a basic e-commerce website built using HTML, CSS, and JavaScript. It was developed as a learning project to understand web layout, styling, and functionality.
+## Features
+- Product listing
+- Add to cart UI
+- Clean and modern design
+## Tools Used
+- HTML
+- CSS
+- JavaScript
